@@ -1,5 +1,5 @@
 ﻿# kurukururinto
-[Home Page](duongnhanac.github.io)
+[Home Page](https://duongnhanac.github.io/)
 
 The website for Herta, the cutest genius Honkai: Star Rail character out there!
 
